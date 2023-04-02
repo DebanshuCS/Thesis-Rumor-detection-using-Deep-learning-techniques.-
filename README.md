@@ -1,2 +1,2 @@
-# Thesis-Rumor-detection-using-Deep-learning-techniques.-
-This project illustrates pure deep learning techniques and applied to small real-world dataset. Primarily, We have used CNN and LSTM network on the respective datasets to detect rumors.  
+# RumourEval2019-Part2
+RumourEval2019-part2
